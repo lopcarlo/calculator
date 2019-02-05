@@ -22,7 +22,9 @@ public class SciCalc extends Calculator{
         return Math.sin(n);
     }
 
-
+    public double square (double num){
+        return Math.sqrt(num);
+    }
 
 
 
